@@ -1,8 +1,8 @@
 # MovieProject
-영화예매 프로젝트
+영화예매 프로젝트 : Java와 mysql로 구현한 영화예매 프로젝트 (프론트 X)
 
 ## side Project 
-- 사용언어 : Java, Mysql
+- 사용 기술셋 : Java, Mysql
 - ER 다이어그램 :
 ![image](https://user-images.githubusercontent.com/77670592/190897987-51300ad9-e659-42ae-82e3-3b86bd8d711e.png)
 - 테이블 명세 : 
