@@ -1,4 +1,4 @@
-# MovieProject
+# MovieProject (개인 사이드 프로젝트)
 영화예매 프로젝트 : Java와 mysql로 구현한 영화예매 프로젝트 (프론트 X)
 
 ## 영화관 관련 초기 세팅
