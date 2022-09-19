@@ -26,13 +26,13 @@ Ex ) id: abcd > 영화B-A0, 영화C-A3 좌석 예약가능​
 1. 기능
 - 회원로그인 // Admin로그인 구현 : 로그인시 public static String loginId = ""; 에 로그인 id를 담아두어 세션 구현
 
-- 회원 로그인시 기능
-: 1. Ticketing 2. now playing 3.Seat changing 4. Movie cancellation 5. The movie you reserved 6.Review Board 7.Member logout
-=> #### **티켓팅, 현재 상영중 목록, 좌석변경, 영화취소, 예매한 영화, 리뷰등록, 로그아웃**
+## 1)회원 로그인시 기능 <br>
+: 1. Ticketing 2. now playing 3.Seat changing 4. Movie cancellation 5. The movie you reserved 6.Review Board 7.Member logout <br>
+<h3>티켓팅, 현재 상영중 목록, 좌석변경, 영화취소, 예매한 영화, 리뷰등록, 로그아웃</h3>
 
-- Admin 로그인 기능 
-: 1. Add movie 2. now playing 3. (Member) Movie cancellation 4. (Member) delete account 5. Admin logout
-=> #### **영화 추가, 현재 상영중 영화, 회원이 예매한 영화 취소, 회원 계정 삭제, 로그아웃**
+## 2) Admin 로그인 기능 <br>
+: 1. Add movie 2. now playing 3. (Member) Movie cancellation 4. (Member) delete account 5. Admin logout <br>
+<h3>영화 추가, 현재 상영중 영화, 회원이 예매한 영화 취소, 회원 계정 삭제, 로그아웃</h3>
 
 <br>
 
